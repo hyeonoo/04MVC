@@ -1,4 +1,4 @@
-package com.model2.mvc.service.product.test;
+package com.model.mvc.service.product.test;
 
 import java.util.List;
 import java.util.Map;
